@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Zhen-Miao
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Zhen-Miao/PIC-snATAC
+  - Zhen-Miao/PACS
+  - Zhen-Miao/dev-kidney-snATAC
+  - Zhen-Miao/DNAbert_p

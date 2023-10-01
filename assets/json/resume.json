@@ -1,76 +1,112 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zhen Miao",
+    "Current position": "Graduate Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zhenmiao@pennmedicine.upenn.edu",
+    // "phone": "(912) 123-4567",
+    "url": "https://zhenmiao.github.io/",
+    "summary": "Ph.D. student studying single cell epigenome and development",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "433 S University Avenue",
+      "postalCode": "PA 19104",
+      "city": "Philadelphia",
       "countryCode": "US",
-      "region": "California"
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "ZhenMiao2",
+        "url": "https://twitter.com/ZhenMiao2"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
+  // "work": [
+  //   {
+  //     "name": "Institute for Advanced Study, Princeton University",
+  //     "position": "Professor of Theoretical Physics",
+  //     "url": "https://example.com",
+  //     "startDate": "1933-01-01",
+  //     "endDate": "1955-01-01",
+  //     "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+  //     "highlights": [
+  //       "Relativity"
+  //     ]
+  //   }
+  // ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA",
+      "url": "https://www.med.upenn.edu/gcb/",
+      "area": "Genomics and Computational Biology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2019-08-31",
+      "endDate": "now",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      // "courses": [
+      //   "Theory of Relativity"
+      // ]
+    },
+    {
+      "institution": "Wharton School, University of Pennsylvania, Philadelphia, PA, USA",
+      "url": "https://www.uzh.ch/",
+      "area": "Statistics and Data Science",
+      "studyType": "Dual MA",
+      "startDate": "2019-08-31",
+      "endDate": "now",
+      "score": "",
+      // "courses": [
+      //   "Theory of Relativity"
+      // ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Blavatnik Family Fellowship in Biomedical Research",
+      "date": "2022-2023",
+      "awarder": "Blavatnik Family Foundation",
+      "summary": "One of the six [awardees](https://www.med.upenn.edu/bgs/news-and-events/) in Penn Medicine"
+    },
+    {
+      "title": "Charles J. Epstein Trainee Awards",
+      "date": "2019",
+      "awarder": "American Society of Human Genetics",
+      "summary": ""
+    },
+    {
+      "title": "ACGA Trainee Awards (pre-doctoral)",
+      "date": "2019",
+      "awarder": "The Association of Chinese Geneticists in America",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Graduate",
+      "date": "2019",
+      "awarder": "Nankai University",
+      "summary": ""
+    },
+    {
+      "title": "National Scholarship",
+      "date": "2017, 2019",
+      "awarder": "Ministry of Education of the People's Republic of China",
+      "summary": "Highest honor for undergraduate students in China"
+    },
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  // "languages": [
+  //   {
+  //     "language": "Chinese",
+  //     "fluency": "Native speaker"
+  //   },
+  //   {
+  //     "language": "English",
+  //     "fluency": "Fluent"
+  //   }
+  // ],
   "interests": [],
   "references": [],
   "projects": []

@@ -2,96 +2,111 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Zhen Miao
+    # - name: Date of Birth
+    #   value: 14th March 1879
+    # - name: Languages
+    #   value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Genomics and Computational Biology
+      institution: Perelman School of Medicine, University of Pennsylvania
+      year: 2019-Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Advisor: Prof. Junhyong Kim"
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Statistical modeling of single cell multiomics data
+    - title: Dual MA in Statistics and Data Science
+      institution: Wharton School, University of Pennsylvania
+      year: 2019-Now
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Advisor: Prof. Nancy Zhang"
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Detecting spatial niches in spatial transcriptomics data
+    - title: MS in Biology
+      institution: Nankai University, Tianjin, China
+      year: 2015-2019
       description:
-        - Description 1.
-        - Description 2.
+        - Minor in Mathematics
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
+
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/Zhen-Miao/PIC-snATAC">PIC</a>
+      year: 2022
+      description: A tool to accurately quantify snATAC-seq data.
+
+    - title: <a href="https://github.com/Zhen-Miao/PACS">PACS</a>
+      year: 2023
+      description: A tool for differential accessibility region test in snATAC-seq data.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Blavatnik Family Fellowship in Biomedical Research
+    - year: 2019
       items: 
-        - Max Planck Medal
+        - Charles J. Epstein Trainee Awards (ASHG)
+        - ACGA Trainee Awards
+        - Outstanding Graduate 
+        - National Scholarship
+    - year: 2017
+      items: 
+        - National Scholarship
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Single cell multiomics
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Develop statistical tools for analyzing single cell multiomics data
+        - Uncover regulatory logit with single cell multiomics profiling data
+        - Use single cell data to understand human complex traits
+    - title: Kidney development and diseases
       items:
-        - Description 1.
-        - Description 2.
+        - Understand kidney developmental dynamics using novel technologies
+        - Understand repairing mechanisms after acute kidney injury
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
