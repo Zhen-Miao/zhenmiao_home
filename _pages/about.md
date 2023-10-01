@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -21,6 +21,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. candidate and the University of Pennsylvania, Perelman School of Medicine. I am in the Genomics and Computational Biology ([GCB](https://www.med.upenn.edu/gcb/)) Graduate Program and Department of Biology. My advisor is [Prof. Junhyong Kim](https://kim.bio.upenn.edu/) at the Department of Biology. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am interested in understanding gene regulation using single cell multi-omics data, and decoding kidney development with multi-omics assays. 

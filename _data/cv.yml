@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Zhen Miao
-    # - name: Date of Birth
-    #   value: 14th March 1879
+    - name: Email
+      value: zhenmiao_at_pennmedicine_dot_upenn_dot_edu
     # - name: Languages
     #   value: English, German
 
