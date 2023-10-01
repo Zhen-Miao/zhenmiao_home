@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhenmiao.github.io/sitemap.xml
+Sitemap: https://zhenmiao.github.io/zhenmiao_home/sitemap.xml
