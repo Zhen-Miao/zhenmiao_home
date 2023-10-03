@@ -33,6 +33,40 @@
       description:
         - Minor in Mathematics
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Blavatnik Family Fellowship in Biomedical Research
+      year: 2022
+      description: One of the six awardees across Penn Medicine Ph.D. candidates
+
+    - title: Charles J. Epstein Trainee Awards (ASHG, semi-finalist)
+      year: 2019
+      description: Awarded to ~top 10% platform presenters in the ASHG annual meeting
+
+    - title: ACGA Trainee Awards (predoctoral)
+      year: 2019
+      description: Awarded to the top 3 predoctoral students’ platform presentations 
+
+    - title: Outstanding Graduate 
+      year: 2019
+      description: Awarded to selected students for academic excellence 
+
+    - title: National Scholarship 
+      year: 2019
+      description: Awarded to the top 1 student based on academic performance
+
+    - title: Poling Scholarship 
+      year: 2018
+      description: Awarded to the top 10 student based on academic performance
+
+    - title: National Scholarship 
+      year: 2017
+      description: Awarded to the top 1 student based on academic performance
+
+    - title: The first prize, The 5th Life Sciences Students’ Experimental Skills Competition in Tianjin
+      year: 2017
+
 # - title: Experience
 #   type: time_table
 #   contents:
@@ -77,21 +111,7 @@
       year: 2023
       description: A tool for differential accessibility region test in snATAC-seq data.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        - Blavatnik Family Fellowship in Biomedical Research
-    - year: 2019
-      items: 
-        - Charles J. Epstein Trainee Awards (ASHG)
-        - ACGA Trainee Awards
-        - Outstanding Graduate 
-        - National Scholarship
-    - year: 2017
-      items: 
-        - National Scholarship
+
 
 - title: Academic Interests
   type: nested_list
