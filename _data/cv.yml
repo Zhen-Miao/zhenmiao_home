@@ -33,6 +33,21 @@
       description:
         - Minor in Mathematics
 
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Single cell multiomics
+      items: 
+        - Develop statistical tools for analyzing single cell multiomics data
+        - Uncover regulatory logit with single cell multiomics profiling data
+        - Use single cell data to understand human complex traits
+    - title: Kidney development and diseases
+      items:
+        - Understand kidney developmental dynamics using novel technologies
+        - Understand repairing mechanisms after acute kidney injury
+
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -100,6 +115,25 @@
 #       institution: University of Zurich, Zurich, Switzerland
 #       year: 1909 - 1911
 
+- title: Platform Presentations
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - ReBuilding A Kidney (RBK) semi-annual meeting
+        - NIH Junior Atlas Builder meeting (lightning talk)
+    - year: 2021
+      items: 
+        - Penn Institute for Regenerative Medicine (IRM) Stem Cell Club
+        - ReBuilding A Kidney (RBK) semi-annual meeting
+    - year: 2020
+      items: 
+        - The American Society of Nephrology annual meeting (ASN kidney week), poster talk
+    - year: 2019
+      items: 
+        - The 69th American Society of Human Genomics (ASHG) annual meeting (with Charles J. Epstein Trainee Award, semi-finalist)
+        - MidAtlantic Bioinformatics Conference (lightning talk)
+
 - title: Open Source Projects
   type: time_table
   contents:
@@ -112,19 +146,6 @@
       description: A tool for differential accessibility region test in snATAC-seq data.
 
 
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Single cell multiomics
-      items: 
-        - Develop statistical tools for analyzing single cell multiomics data
-        - Uncover regulatory logit with single cell multiomics profiling data
-        - Use single cell data to understand human complex traits
-    - title: Kidney development and diseases
-      items:
-        - Understand kidney developmental dynamics using novel technologies
-        - Understand repairing mechanisms after acute kidney injury
 
 # - title: Other Interests
 #   type: list
