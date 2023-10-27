@@ -27,11 +27,60 @@
         - title: Thesis
           contents:
             - Detecting spatial niches in spatial transcriptomics data
-    - title: MS in Biology
+    - title: BS in Biology
       institution: Nankai University, Tianjin, China
       year: 2015-2019
       description:
         - Minor in Mathematics
+
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Single cell multiomics
+      items: 
+        - Develop statistical tools for analyzing single cell multiomics data
+        - Uncover regulatory logit with single cell multiomics profiling data
+        - Use single cell data to understand human complex traits
+    - title: Kidney development and diseases
+      items:
+        - Understand kidney developmental dynamics using novel technologies
+        - Understand repairing mechanisms after acute kidney injury
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Blavatnik Family Fellowship in Biomedical Research
+      year: 2022
+      description: One of the six awardees across Penn Medicine Ph.D. candidates
+
+    - title: Charles J. Epstein Trainee Awards (ASHG, semi-finalist)
+      year: 2019
+      description: Awarded to ~top 10% platform presenters in the ASHG annual meeting
+
+    - title: ACGA Trainee Awards (predoctoral)
+      year: 2019
+      description: Awarded to the top 3 predoctoral students’ platform presentations 
+
+    - title: Outstanding Graduate 
+      year: 2019
+      description: Awarded to selected students for academic excellence 
+
+    - title: National Scholarship 
+      year: 2019
+      description: Awarded to the top 1 student based on academic performance
+
+    - title: Poling Scholarship 
+      year: 2018
+      description: Awarded to the top 10 student based on academic performance
+
+    - title: National Scholarship 
+      year: 2017
+      description: Awarded to the top 1 student based on academic performance
+
+    - title: The first prize, The 5th Life Sciences Students’ Experimental Skills Competition in Tianjin
+      year: 2017
 
 # - title: Experience
 #   type: time_table
@@ -66,6 +115,25 @@
 #       institution: University of Zurich, Zurich, Switzerland
 #       year: 1909 - 1911
 
+- title: Platform Presentations
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - ReBuilding A Kidney (RBK) semi-annual meeting
+        - NIH Junior Atlas Builder meeting (lightning talk)
+    - year: 2021
+      items: 
+        - Penn Institute for Regenerative Medicine (IRM) Stem Cell Club
+        - ReBuilding A Kidney (RBK) semi-annual meeting
+    - year: 2020
+      items: 
+        - The American Society of Nephrology annual meeting (ASN kidney week), poster talk
+    - year: 2019
+      items: 
+        - The 69th American Society of Human Genomics (ASHG) annual meeting (with Charles J. Epstein Trainee Award, semi-finalist)
+        - MidAtlantic Bioinformatics Conference (lightning talk)
+
 - title: Open Source Projects
   type: time_table
   contents:
@@ -77,34 +145,7 @@
       year: 2023
       description: A tool for differential accessibility region test in snATAC-seq data.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        - Blavatnik Family Fellowship in Biomedical Research
-    - year: 2019
-      items: 
-        - Charles J. Epstein Trainee Awards (ASHG)
-        - ACGA Trainee Awards
-        - Outstanding Graduate 
-        - National Scholarship
-    - year: 2017
-      items: 
-        - National Scholarship
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Single cell multiomics
-      items: 
-        - Develop statistical tools for analyzing single cell multiomics data
-        - Uncover regulatory logit with single cell multiomics profiling data
-        - Use single cell data to understand human complex traits
-    - title: Kidney development and diseases
-      items:
-        - Understand kidney developmental dynamics using novel technologies
-        - Understand repairing mechanisms after acute kidney injury
 
 # - title: Other Interests
 #   type: list
