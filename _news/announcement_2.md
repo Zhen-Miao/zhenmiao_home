@@ -17,7 +17,7 @@ related_posts: false
 </style>
 
 <body>
-    <img class="logo" src="assets/img/ASHGLogo_png.png" alt="LOGO" width="30%" />
+    <img class="logo" src="assets/img/ASHGLogo_png.png" alt="LOGO" width="25%" />
     <p>I am honored to get the ASHG Charles J. Epstein Trainee Award (semi-finalist)!
     </p>
 </body>
