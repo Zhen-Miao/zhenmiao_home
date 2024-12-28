@@ -1,1 +1,1 @@
-I am a Ph.D. candidate and the University of Pennsylvania, Perelman School of Medicine. I am in the Genomics and Computational Biology ([GCB](https://www.med.upenn.edu/gcb/)) Graduate Program and Department of Biology. My advisor is [Prof. Junhyong Kim](https://kim.bio.upenn.edu/) at the Department of Biology. 
+I am a Postdoctoral researcher at the University of Pennsylvania, Department of Biology. I study Genomics and Computational Biology with [Prof. Junhyong Kim](https://kim.bio.upenn.edu/) at the Department of Biology. 

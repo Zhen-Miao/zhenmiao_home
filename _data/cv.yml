@@ -13,7 +13,7 @@
   contents:
     - title: PhD in Genomics and Computational Biology
       institution: Perelman School of Medicine, University of Pennsylvania
-      year: 2019-Now
+      year: 2019-2024
       description:
         - "Advisor: Prof. Junhyong Kim"
         - title: Thesis
@@ -21,7 +21,7 @@
             - Statistical modeling of single cell multiomics data
     - title: Dual MA in Statistics and Data Science
       institution: Wharton School, University of Pennsylvania
-      year: 2019-Now
+      year: 2019-2024
       description:
         - "Advisor: Prof. Nancy Zhang"
         - title: Thesis
@@ -118,6 +118,10 @@
 - title: Platform Presentations
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - Conference on Statistics in Genomics and Genetics
+        - ReBuilding A Kidney (RBK) semi-annual meeting
     - year: 2023
       items: 
         - ReBuilding A Kidney (RBK) semi-annual meeting
