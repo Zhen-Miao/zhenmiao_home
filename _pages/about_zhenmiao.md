@@ -1,1 +1,1 @@
-I am a Postdoctoral researcher at the University of Pennsylvania, Department of Biology. I study Genomics and Computational Biology with [Prof. Junhyong Kim](https://kim.bio.upenn.edu/) at the Department of Biology. 
+I am a Postdoctoral researcher in the [Matsen Lab](https://matsen.fhcrc.org/) at Fred Hutchinson Cancer Center in Seattle. I work on building antibody language models.
