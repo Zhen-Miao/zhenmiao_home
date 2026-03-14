@@ -37,15 +37,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Single cell multiomics
-      items: 
-        - Develop statistical tools for analyzing single cell multiomics data
-        - Uncover regulatory logit with single cell multiomics profiling data
-        - Use single cell data to understand human complex traits
-    - title: Kidney development and diseases
+    - title: Antibody language models
       items:
-        - Understand kidney developmental dynamics using novel technologies
-        - Understand repairing mechanisms after acute kidney injury
+        - Build language models for antibody sequences
+    - title: Single cell multiomics
+      items:
+        - Develop statistical tools for analyzing single cell multiomics data
+        - Uncover regulatory logic with single cell multiomics profiling data
+        - Use single cell data to understand human complex traits
 
 
 - title: Honors and Awards

@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Zhen Miao",
-    "Current position": "Graduate Student",
+    "Current position": "Postdoctoral Researcher",
     "image": "",
     "email": "zhenmiao@pennmedicine.upenn.edu",
     // "phone": "(912) 123-4567",
     "url": "https://zhenmiao.github.io/",
-    "summary": "Ph.D. student studying single cell epigenome and development",
+    "summary": "Postdoctoral researcher building antibody language models",
     "location": {
-      "address": "433 S University Avenue",
-      "postalCode": "PA 19104",
-      "city": "Philadelphia",
+      "address": "Fred Hutchinson Cancer Center",
+      "postalCode": "WA 98109",
+      "city": "Seattle",
       "countryCode": "US",
-      "region": "Pennsylvania"
+      "region": "Washington"
     },
     "profiles": [
       {
