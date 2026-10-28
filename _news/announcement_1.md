@@ -17,7 +17,7 @@ related_posts: false
 
 <body>
     <img class="logo" src="assets/img/blavatnik family foundation logo.webp" alt="LOGO" width="25%" />
-    <p>I am honored to be one of six recipients of the 2022<a href="https://www.med.upenn.edu/bgs/news-and-events/">Blavatnik Family Fellowship in Biomedical Research</a>!
+    <p>I am honored to be one of six recipients of the 2022 <a href="https://www.med.upenn.edu/bgs/news-and-events/">Blavatnik Family Fellowship in Biomedical Research</a>!
     </p>
 </body>
 

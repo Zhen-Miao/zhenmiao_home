@@ -2,7 +2,9 @@
 #   - Zhen-Miao
 
 github_repos:
-  - Zhen-Miao/PIC-snATAC
+  - Zhen-Miao/CoPro
+  - Zhen-Miao/copro-python
+  - Zhen-Miao/PICsnATAC
   - Zhen-Miao/PACS
   - Zhen-Miao/dev-kidney-snATAC
   - Zhen-Miao/DNAbert_p

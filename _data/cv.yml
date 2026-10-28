@@ -4,153 +4,178 @@
     - name: Full Name
       value: Zhen Miao
     - name: Email
-      value: zhenmiao_at_pennmedicine_dot_upenn_dot_edu
-    # - name: Languages
-    #   value: English, German
+      value: '<a href="mailto:zmiao2@fredhutch.org">zmiao2@fredhutch.org</a>'
+    - name: Affiliation
+      value: Fred Hutch Cancer Center and Howard Hughes Medical Institute
+    - name: Publications
+      value: '<a href="https://scholar.google.com/citations?user=xU0FomQAAAAJ&amp;hl=en">Google Scholar</a>'
+
+- title: Academic Appointments
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: Fred Hutch Cancer Center and Howard Hughes Medical Institute
+      year: 2026–present
+      description:
+        - 'February 2026–present. Advisor: Erick Matsen.'
+        - Models combining antibody sequence transformers with explicit mutation, codon-preference, and amino-acid selection components.
+    - title: Postdoctoral Researcher
+      institution: University of Pennsylvania
+      year: 2024–2025
+      description:
+        - 'December 2024–December 2025. Advisors: Junhyong Kim and Nancy Zhang.'
+        - Developed CoPro to identify coordinated progression of cell states in spatial transcriptomics.
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Genomics and Computational Biology
-      institution: Perelman School of Medicine, University of Pennsylvania
-      year: 2019-2024
+      institution: University of Pennsylvania
+      year: 2024
       description:
-        - "Advisor: Prof. Junhyong Kim"
-        - title: Thesis
-          contents:
-            - Statistical modeling of single cell multiomics data
-    - title: Dual MA in Statistics and Data Science
-      institution: Wharton School, University of Pennsylvania
-      year: 2019-2024
+        - 'Completed December 2024. Advisor: Junhyong Kim.'
+        - 'Thesis: Statistical foundations of single cell open chromatin assays.'
+    - title: MA in Statistics and Data Science
+      institution: University of Pennsylvania
+      year: 2024
       description:
-        - "Advisor: Prof. Nancy Zhang"
-        - title: Thesis
-          contents:
-            - Detecting spatial niches in spatial transcriptomics data
-    - title: BS in Biology
-      institution: Nankai University, Tianjin, China
-      year: 2015-2019
+        - 'Completed May 2024. Advisor: Nancy Zhang.'
+        - 'Thesis: Charting the coordinated progression of cell states in spatial transcriptomic data.'
+    - title: BS in Biological Sciences
+      institution: Nankai University
+      year: 2019
       description:
-        - Minor in Mathematics
+        - Minor in Applied Mathematics.
 
-
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Antibody language models
+    - title: Spatial transcriptomics and single-cell multiomics
       items:
-        - Build language models for antibody sequences
-    - title: Single cell multiomics
+        - Modeling coordinated cell-state changes across cell types and tissue sections.
+        - Integrating single-cell multiomics to study cellular regulation and tissue organization.
+    - title: Single-cell epigenomics
       items:
-        - Develop statistical tools for analyzing single cell multiomics data
-        - Uncover regulatory logic with single cell multiomics profiling data
-        - Use single cell data to understand human complex traits
+        - Separating latent chromatin accessibility from assay measurement and capture processes.
+        - Testing the effects of multiple biological factors on chromatin accessibility.
+    - title: Biological sequences
+      items:
+        - Combining language models with mechanistic models of B-cell receptor evolution.
+        - Distinguishing mutation, codon preference, and amino-acid selection.
 
+- title: Research Software
+  type: time_table
+  contents:
+    - title: '<a href="https://github.com/Zhen-Miao/CoPro">CoPro</a>'
+      description:
+        - Detects coordinated cell-state progression in spatial transcriptomics.
+        - '<a href="https://github.com/Zhen-Miao/copro-python">Python implementation</a>.'
+    - title: '<a href="https://github.com/Zhen-Miao/PACS">PACS</a>'
+      description:
+        - Depth-corrected multifactor testing of chromatin accessibility in scATAC-seq.
+    - title: '<a href="https://github.com/Zhen-Miao/PICsnATAC">PIC</a>'
+      description:
+        - Corrects insertion-counting artifacts in single-nucleus ATAC-seq quantification.
+
+- title: Teaching and Mentoring
+  type: time_table
+  contents:
+    - title: Guest Lecturer
+      institution: University of Pennsylvania
+      year: 2024
+      description:
+        - 'STAT-9915: Advanced Topics in Biomedical Data Science.'
+        - Lectured on statistical methods for single-cell chromatin accessibility, including PIC and PACS.
+    - title: Graduate Teaching Assistant
+      institution: University of Pennsylvania
+      year: 2021–2024
+      description:
+        - 'BIOM/CIS/MTR-5350: Introduction to Bioinformatics.'
+        - 'GCB-5330: Statistics for Genomics and Biomedical Informatics.'
+        - Held weekly office hours, developed course materials, and supported students with statistical and computational analyses.
+    - title: Research Mentoring
+      year: 2024
+      description:
+        - 'Kernyu Park, research assistant: benchmarking statistical tests for scATAC-seq data.'
+        - 'Elena Theus, undergraduate student: visualization tools for single-cell multiomics.'
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: Third Place Poster Award
+      institution: American Statistical Association, Section on Statistics in Genomics and Genetics
+      year: 2026
+    - title: University of Pennsylvania Nominee for the Regeneron Prize for Creative Innovation
+      year: 2025
+      description:
+        - Selected as Penn's sole predoctoral nominee.
+    - title: NIH-CZI Junior Atlas Builder Travel Grant
+      year: 2024
     - title: Blavatnik Family Fellowship in Biomedical Research
-      year: 2022
-      description: One of the six awardees across Penn Medicine Ph.D. candidates
-
-    - title: Charles J. Epstein Trainee Awards (ASHG, semi-finalist)
+      institution: University of Pennsylvania
+      year: 2022–2023
+      description:
+        - One of six recipients across Penn Medicine PhD candidates.
+    - title: Semifinalist, Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research
+      institution: American Society of Human Genetics
       year: 2019
-      description: Awarded to ~top 10% platform presenters in the ASHG annual meeting
-
-    - title: ACGA Trainee Awards (predoctoral)
+    - title: ACGA Trainee Award
       year: 2019
-      description: Awarded to the top 3 predoctoral students’ platform presentations 
-
-    - title: Outstanding Graduate 
+      description:
+        - Awarded to the top three predoctoral students' platform presentations.
+    - title: Outstanding Graduate
+      institution: Nankai University
       year: 2019
-      description: Awarded to selected students for academic excellence 
-
-    - title: National Scholarship 
-      year: 2019
-      description: Awarded to the top 1 student based on academic performance
-
-    - title: Poling Scholarship 
+    - title: National Scholarship
+      year: 2017, 2019
+    - title: Poling Scholarship
+      institution: Nankai University
       year: 2018
-      description: Awarded to the top 10 student based on academic performance
-
-    - title: National Scholarship 
-      year: 2017
-      description: Awarded to the top 1 student based on academic performance
-
-    - title: The first prize, The 5th Life Sciences Students’ Experimental Skills Competition in Tianjin
+      description:
+        - Awarded to ten students in the Poling Program for academic performance.
+    - title: First Place, Fifth Life Sciences Students' Experimental Skills Competition in Tianjin
       year: 2017
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
-
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
-
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
-
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
-
-- title: Platform Presentations
+- title: Selected Presentations
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - 'ASA Section on Statistics in Genomics and Genetics meeting, lightning talk: Modeling coordinated progression in spatial transcriptomics with CoPro.'
     - year: 2024
       items:
-        - Conference on Statistics in Genomics and Genetics
-        - ReBuilding A Kidney (RBK) semi-annual meeting
+        - 'ASA Section on Statistics in Genomics and Genetics meeting, platform presentation: Model-based compound hypothesis testing for snATAC-seq data with PACS.'
     - year: 2023
-      items: 
-        - ReBuilding A Kidney (RBK) semi-annual meeting
-        - NIH Junior Atlas Builder meeting (lightning talk)
+      items:
+        - 'Cold Spring Harbor Laboratory Single Cell Analyses meeting, platform presentation: Model-based compound hypothesis testing for snATAC-seq data with PACS.'
+        - 'NIH Junior Atlas Builder meeting, lightning talk: Atlas-scale integrative analysis of snATAC-seq data with PACS.'
     - year: 2021
-      items: 
-        - Penn Institute for Regenerative Medicine (IRM) Stem Cell Club
-        - ReBuilding A Kidney (RBK) semi-annual meeting
-    - year: 2020
-      items: 
-        - The American Society of Nephrology annual meeting (ASN kidney week), poster talk
+      items:
+        - 'ReBuilding a Kidney semiannual meeting: Best practices of quantification for single cell epigenomics data.'
+        - 'Penn IRM Stem Cell Club: Charting kidney development through single cell multiomics study.'
     - year: 2019
-      items: 
-        - The 69th American Society of Human Genomics (ASHG) annual meeting (with Charles J. Epstein Trainee Award, semi-finalist)
-        - MidAtlantic Bioinformatics Conference (lightning talk)
+      items:
+        - 'ASHG annual meeting, platform presentation: Characterizing cellular communication in the human brain by single-cell RNA-seq.'
+        - 'MidAtlantic Bioinformatics Conference, lightning talk: Charting cellular communication network in Alzheimer’s Disease.'
 
-- title: Open Source Projects
+- title: Service
   type: time_table
   contents:
-    - title: <a href="https://github.com/Zhen-Miao/PIC-snATAC">PIC</a>
+    - title: GCB Advising Committee
+      institution: University of Pennsylvania
+      year: 2021–2023
+      description:
+        - Advised first-year PhD students on course selection and helped second-year students prepare for candidacy exams.
+    - title: Journal and Conference Reviewer
+      description:
+        - Nature Machine Intelligence, Genome Biology, PLOS Computational Biology, Communications Biology, ISMB, ICLR, and other journals and conferences.
+
+- title: Industry Experience
+  type: time_table
+  contents:
+    - title: Graduate Student Intern, Computational Biology
+      institution: 23andMe
       year: 2022
-      description: A tool to accurately quantify snATAC-seq data.
-
-    - title: <a href="https://github.com/Zhen-Miao/PACS">PACS</a>
-      year: 2023
-      description: A tool for differential accessibility region test in snATAC-seq data.
-
-
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      description:
+        - 'June–August 2022. Supervisor: Robert Tunney.'
+        - Optimized parallel computation and data handling in TACTICAL and extended the framework to single-cell ATAC-seq data.
