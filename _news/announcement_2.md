@@ -18,7 +18,7 @@ related_posts: false
 
 <body>
     <img class="logo" src="assets/img/ASHGLogo_png.png" alt="LOGO" width="25%" />
-    <p>I am honored to get the ASHG Charles J. Epstein Trainee Award (semi-finalist)!
+    <p>I am honored to have been selected as a semifinalist for the ASHG Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research!
     </p>
 </body>
 
